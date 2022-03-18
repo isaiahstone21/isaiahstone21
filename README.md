@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @isaiahstone21
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning new applications to programming to build projects that test my knowledge. 
+- 🌱 I’m currently learning Java. 
+- 📫 How to reach me:
+- email: isstone21@hotmail.com
+- instagram: @isaiahstone21
+- twitter: @isaiahstone21
+- LinkedIn: linkedin.com/in/isaiah-stone-b71a1a221
 
 <!---
 isaiahstone21/isaiahstone21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

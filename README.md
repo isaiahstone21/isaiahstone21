@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java. 
 - 📫 How to reach me:
 - email: isstone21@hotmail.com
+- phone number: 402-617-2586
 - instagram: @isaiahstone21
 - twitter: @isaiahstone21
 - LinkedIn: linkedin.com/in/isaiah-stone-b71a1a221

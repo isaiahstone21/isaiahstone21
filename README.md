@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isaiahstone21
 - 👀 I’m interested in learning new applications to programming to build projects that expand my knowledge. 
-- 🌱 I’m currently learning Bash. 
+- 🌱 I’m currently learning Python applications. 
 - 📫 How to reach me:
 - email: isstone21@hotmail.com
 - instagram: @isaiahstone21

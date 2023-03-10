@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isaiahstone21
 - 👀 I’m interested in learning new applications to programming to build projects that expand my knowledge. 
-- 🌱 I’m currently learning Java. 
+- 🌱 I’m currently learning x86, C, and C++!
 - 📫 How to reach me:
 - email: isstone21@hotmail.com
 - instagram: @isaiahstone21

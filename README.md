@@ -18,7 +18,7 @@ For a complete list of my projects, please visit my GitHub portfolio.
 
 ## Education  
 Bachelor of Computer Science, University of Nebraska-Lincoln (2025)  
-Contact  
+## **Contact**    
 Email: **isstone21@hotmail.com**   
 LinkedIn: **isaiahstone21**  
 

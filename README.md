@@ -1,13 +1,26 @@
-- 👋 Hi, I’m @isaiahstone21
-- 👀 I’m interested in learning new applications to programming to build projects that expand my knowledge. 
-- 🌱 I’m currently learning C and C++!
-- 📫 How to reach me:
-- email: isstone21@hotmail.com
-- instagram: @isaiahstone21
-- twitter: @isaiahstone21
-- LinkedIn: linkedin.com/in/isaiah-stone-b71a1a221
+Isaiah Stone
+  
+Introduction
+Hello! I'm Isaiah Stone, a student studying Computer Science with experience in web development and a strong interest in building scalable and efficient applications. I love solving complex problems and creating innovative solutions.
 
-<!---
-isaiahstone21/isaiahstone21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills
+Programming Languages: Python, C, C++, Java
+Web Development: HTML, CSS, Flask
+Database: PostgreSQL, MySQL
+Version Control: Git, GitHub
+
+Here are a few notable projects I've worked on:
+
+Expense Splitter - A web application built with Flask and PostgreSQL to simplify expense splitting among friends or groups. Users can track expenses, calculate balances, and settle payments easily.
+
+For a complete list of my projects, please visit my GitHub portfolio.
+
+Education
+Bachelor of Computer Science, University of Nebraska-Lincoln (2025)
+Contact
+Email: isstone21@hotmail.com
+LinkedIn: isaiahstone21
+
+Feel free to reach out to discuss collaboration opportunities or if you have any questions about my projects or skills.
+
+Thank you for visiting my GitHub profile!

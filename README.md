@@ -5,8 +5,8 @@
 Hello! I'm Isaiah Stone, a student studying Computer Science with experience in web development and a strong interest in building scalable and efficient applications. I love solving complex problems and creating innovative solutions.
 
 ## **Skills**  
-### Programming Languages: Python, C, C++, Java
-### Web Development: HTML, CSS, Flask
+### Programming Languages: Python, C, C++, Java, JavaScript
+### Web Development: HTML, CSS, JavaScript, Flask
 ### Database: PostgreSQL, MySQL
 ### Version Control: Git, GitHub
 

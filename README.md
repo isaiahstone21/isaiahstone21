@@ -12,7 +12,7 @@ Hello! I'm Isaiah Stone, a student studying Computer Science with experience in 
 
 Here are notable projects I've worked on:  
 
-**Movie Catalog** - WORK IN PROGRESS
+**Movie Catalog** - WORK IN PROGRESS  
 **Expense Splitter** - A web application built with Flask and PostgreSQL to simplify expense splitting among friends or groups. Users can track expenses, calculate balances, and settle payments easily.  
 
 ## Education  

@@ -6,12 +6,13 @@ Hello! I'm Isaiah Stone, a student studying Computer Science with experience in 
 
 ## **Skills**  
 ### Programming Languages: Python, C, C++, Java, JavaScript
-### Web Development: HTML, CSS, JavaScript, React, Flask
+### Web Development: HTML, CSS, JavaScript, React, Flask, Node
 ### Database: PostgreSQL, MySQL
 ### Version Control: Git, GitHub
 
 Here are notable projects I've worked on:  
 
+**Movie Catalog** - WORK IN PROGRESS
 **Expense Splitter** - A web application built with Flask and PostgreSQL to simplify expense splitting among friends or groups. Users can track expenses, calculate balances, and settle payments easily.  
 
 ## Education  
